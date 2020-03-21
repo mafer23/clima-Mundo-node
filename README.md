@@ -3,5 +3,5 @@
 Recuerden ejecutar ```npm install``` para las librerías
 
 ```
-node app -d " San Jose Costa Rica"
+node app -d " San Jose de cúcuta"
 ```
